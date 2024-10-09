@@ -10,8 +10,14 @@
   <h1>Hi there, Randolph here 👋 </h1>
 </div>
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBjZ2xzNjVtNW1la3ZqdGlocDhxMmgyaTZnYWNmMnRrdTJkM3QycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" width="auto" height="300"/>
-</div>
-
 ---
+
+### 👷‍♂️ About Me :
+I am a Full Stack Developer 💻 currently studying at the University of Washington Seattle.
+- :telescope: I’m a software engineer and contributing to building web applications and API.
+
+- :seedling: Exploring Machine Learning, Parallelism, and Distributed Systems.
+
+- :zap: In my free time, I solve problems on HackerRank and Leetcode.
+
+- :mailbox: Feel free to reach me: y031125k@gmail.com

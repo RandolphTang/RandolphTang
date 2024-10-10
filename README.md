@@ -13,7 +13,7 @@
 ---
 
 ### 👷‍♂️ About Me :
-I am a Full Stack Developer 💻 currently studying at the University of Washington Seattle.
+I am a Full Stack Developer 💻 currently studying in the Information School at the University of Washington Seattle.
 - :telescope: I’m a software engineer and contributing to building web applications and API.
 
 - :seedling: Exploring Machine Learning, Parallelism, and Distributed Systems.
